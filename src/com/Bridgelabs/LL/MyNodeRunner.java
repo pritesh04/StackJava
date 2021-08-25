@@ -21,7 +21,6 @@ public class MyNodeRunner {
 		myQueue.enqueue(frstQ);
 		myQueue.enqueue(secQ);
 		myQueue.enqueue(thirdQ);
-		myQueue.Dequeue(thirdQ);
 		myQueue.print();
 
 	}
