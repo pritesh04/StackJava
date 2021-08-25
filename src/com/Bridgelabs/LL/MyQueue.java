@@ -11,8 +11,10 @@ public class MyQueue<K> {
 		ll.append(element);
 	}
 
-	public void Dequeue(INode<K> element) {
-		ll.deleteLastElement();
+	
+	public void print ()
+	{
+		ll.print();
 	}
 
 }
